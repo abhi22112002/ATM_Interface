@@ -5,7 +5,7 @@ Needed Software:
   2.MySql Command line (or) MySql Workbench(prefered)
 
 Process:
-  1.create a database named as 'atmdb' in MySql.
+  1.create a database named as 'atmdb' in MySql.<br>
   2.create the table, table1 should be 'accounts', table2 should be 'transactions'.
   3.create these two tables with the help of the files attached(accounts_table,transactions_table).
   4.import libraries.
