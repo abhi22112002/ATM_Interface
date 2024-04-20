@@ -1,8 +1,8 @@
 ATM Interface
 
-Needed Software:
-  1.Python jupyter
-  2.MySql Command line (or) MySql Workbench(prefered)
+Needed Software:<br>
+  1.Python jupyter<br>
+  2.MySql Command line (or) MySql Workbench(prefered)<br>
 
 Process:<br>
   1.create a database named as 'atmdb' in MySql.<br>
