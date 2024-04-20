@@ -4,7 +4,7 @@ Needed Software:
   1.Python jupyter
   2.MySql Command line (or) MySql Workbench(prefered)
 
-Process:
+Process:<br>
   1.create a database named as 'atmdb' in MySql.<br>
   2.create the table, table1 should be 'accounts', table2 should be 'transactions'.<br>
   3.create these two tables with the help of the files attached(accounts_table,transactions_table).<br>
